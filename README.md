@@ -25,7 +25,7 @@ Link Bitacora: https://github.com/Danielmmartinez/DOSW_BITACORA
 
 ## Identificar Requerimientos
 ### Funcionales
- * Consultar mascotas por tipo
+ * Consultar mascotas por especie
  * Consultar compatibilidad de mascotas
  * Crear Mascota
 ### No funcionales
