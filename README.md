@@ -23,3 +23,14 @@ Link Bitacora: https://github.com/Danielmmartinez/DOSW_BITACORA
 ## Diagrama de Contexto 
 ![Evidencia DDC](DOSW-ParcialT1/docs/uml/DiagramaDeContexto.png)
 
+## Identificar Requerimientos
+### Funcionales
+ * Consultar mascotas por tipo
+ * Consultar compatibilidad de mascotas
+ * Crear Mascota
+### No funcionales
+ * Busqueda rapida en el catalogo
+ * Colores Institucionales
+
+
+
