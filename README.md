@@ -32,5 +32,10 @@ Link Bitacora: https://github.com/Danielmmartinez/DOSW_BITACORA
  * Busqueda rapida en el catalogo
  * Colores Institucionales
 
+## Diagrama de Casos de Uso
+![Diagrama Caso 1](DOSW-ParcialT1/docs/uml/DiagramaDeCasosUso1.png)
+![Diagrama Caso 2](DOSW-ParcialT1/docs/uml/DiagramaDeCasosUso2.png)
+
+
 
 
